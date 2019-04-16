@@ -16,7 +16,7 @@
         <pluginManagement>
             <plugins>
                 <plugin>
-                    <groupId>org.sonarsource.scanner.maven</groupId>
+                    <groupId>org.sonarsource.scanner.mavena</groupId>
                     <artifactId>sonar-maven-plugin</artifactId>
                     <version>3.6.0.1398</version>
                 </plugin>
